@@ -14,6 +14,8 @@
 
 :outbox_tray: 2021 Goals: Learn more about design patterns,tests and apply both in a new project.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egbertjkf)](https://github.com/anuraghazra/github-readme-stats)
+
  
 
 ## About me
