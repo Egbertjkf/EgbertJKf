@@ -6,11 +6,9 @@
 
  
 
-:computer: I'm Flutter Developer!
+:computer: I'm Flutter Developer from Brazil
 
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning Tests with dart/flutter(unit and interface).
+:books: Currently learning Tests with dart/flutter(unit and interface).
 
 :outbox_tray: 2021 Goals: Learn more about design patterns,tests and apply both in a new project.
 
