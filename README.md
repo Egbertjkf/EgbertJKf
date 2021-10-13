@@ -10,7 +10,7 @@
 
 :books: Currently learning Tests with dart/flutter(unit and interface).
 
-:outbox_tray: 2021 Goals: Learn more about design patterns,tests and apply both in a new project.
+:rocket: 2021 Goals: Learn more about design patterns,tests and apply both in a new project.
 
 
  
