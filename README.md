@@ -14,7 +14,6 @@
 
 :outbox_tray: 2021 Goals: Learn more about design patterns,tests and apply both in a new project.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egbertjkf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
@@ -25,10 +24,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egbertklein/)
 
 
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egbertjkf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - Thanks for visiting.
-
-- Enjoy it!! o/
-
 ----------------------------------------------------------------------------------
 
 <!--
