@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Flutter Developer from Brazil
+:computer: I'm a Flutter Developer from Brazil
 
 :books: Currently learning Tests with dart/flutter(unit and interface).
 
